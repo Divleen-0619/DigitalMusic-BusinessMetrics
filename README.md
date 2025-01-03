@@ -1,6 +1,8 @@
 # Analyzing Key Business Metrics for a Digital Music Store Using SQL
 Welcome to the Digital Music Store Business Metrics Analysis project. This project leverages SQL to analyze key business metrics for a digital music store, providing actionable insights and strategic recommendations. The primary objective is to help understand customer behavior, sales trends, and other critical business metrics to make data-driven decisions.
 
+![ImageAlt](https://github.com/Divleen-0619/DigitalMusic-BusinessMetrics/blob/d93cd6972dc0f509e5fd8a3b5e757e7bab83d5e8/lively%20landscape%20cover%20page%20for%20a%20digital%20music%20store%20analysis.png)
+
 # **Business Questions**
 1. Who is the most senior employee based on the job title?
 2. Which countries have the most invoices?
