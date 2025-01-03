@@ -19,7 +19,7 @@ The project utilizes the following data sets:
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/DigitalMusic-BusinessMetrics.git
+git clone [https://github.com/Divleen-0619/DigitalMusic-BusinessMetrics/tree/main]
 2. Navigate to the project directory:
 cd DigitalMusic-BusinessMetrics
 3. Set up the database:
