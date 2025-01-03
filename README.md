@@ -15,6 +15,19 @@ The project utilizes the following data sets:
 2. Genre Information: Information about the genre available in the store.
 3. Sales Data: Records of sales transactions including invoice details.
 
+# **Setup**
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+git clone https://github.com/yourusername/DigitalMusic-BusinessMetrics.git
+2. Navigate to the project directory:
+cd DigitalMusic-BusinessMetrics
+3. Set up the database:
+createdb your_database_name
+4. Run the SQL scripts to create tables and insert data:
+psql your_database_name < scripts/create_tables.sql
+psql your_database_name < scripts/insert_data.sql
+
 # The project focuses on the following key **business metrics**:
 
 1. Total Revenue: Sum of all invoice totals.
