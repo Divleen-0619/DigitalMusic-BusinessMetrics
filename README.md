@@ -36,30 +36,30 @@ psql your_database_name < scripts/insert_data.sql
 4. Number of Invoices per Country: Count of invoices grouped by country.
 5. Total Sales by Artist: Sum of sales grouped by artist.
 
-# **Analysis**
+# **Analysis:**
 The analysis covers several aspects of the business, including:
 
-1. **Most Senior Employee**
+1. Most Senior Employee
 Who is the most senior employee based on the job title: Identifying the employee with the highest job title level.
-2. **Invoice Distribution by Country**
+2. Invoice Distribution by Country
 Which countries have the most invoices: Determining the countries with the highest number of invoices to understand regional sales distribution.
-3. **Top Invoice Totals**
+3. Top Invoice Totals
 What are the top 3 values of total invoices: Identifying the largest transactions by analyzing the top 3 highest invoice totals.
-4. **Best Customers by City**
+4. Best Customers by City
 Which city has the best customers in terms of total invoice amounts: Identifying the city with the highest sum of invoice totals to pinpoint locations with the best customers.
-5.** Top-Spending Customer**
+5. Top-Spending Customer
 Who is the best customer based on the total money spent: Recognizing the customer who has spent the most money to identify valuable customer profiles.
-6. **Rock Music Listeners**
+6. Rock Music Listeners
 Email, first name, last name, genre of all rock music listeners: Segmenting rock music listeners based on email, first name, and last name for targeted marketing.
-7.** Top Rock Music Artists**
+7. Top Rock Music Artists
 Top 10 artists who have written the most rock music tracks: Identifying and understanding the most prolific rock music artists.
-8. **Longest Tracks**
+8. Longest Tracks
 Tracks with lengths longer than the average song length: Analyzing tracks with unique characteristics by identifying those longer than the average length.
-9. **Customer Spending on Artists**
+9. Customer Spending on Artists
 Total amount spent by each customer on different artists: Understanding customer preferences by identifying the total spending on various artists.
-10. **Popular Genre by Country**
+10. Popular Genre by Country
 Most popular genre in each country based on purchases: Identifying regional music preferences by determining the most popular genre in each country.
-11. **Top-Spending Customers by Country**
+11. Top-Spending Customers by Country
 Customer who has spent the most on music in each country: Recognizing key customers in each region by analyzing total spending per customer by country.
 
 # **Recommendations**
